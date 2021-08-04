@@ -1,3 +1,5 @@
+ @font-face { font-family: NoobScience; src: url('Assets/Noobscience_1-Regular.ttf'); } 
+
 .black{
     background-color: black;
     color: white;
@@ -6,4 +8,8 @@
 .white {
     background-color: white;
     color: black;
+}
+
+.fonter {
+    font-family: NoobScience, Cascadia Code, JetBrains Mono;
 }

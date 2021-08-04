@@ -1,7 +1,12 @@
-const x = document.getElementById('button')
-const theme = document.querySelector('.light-dark')
-const y = document.getElementById('light-dark')
+var i = 0;
+var txt = 'Duck it!';
+var speed = 100; 
 
-x.addEventListener('click', function name(params) {
-	document.body.classList.toggle('black');
-})
+function typeWriter() {
+  if (i < txt.length) {
+    document.getElementById("demo").innerHTML += txt.charAt(i);
+    i++;
+    setTimeout(typeWriter, speed);
+  }
+}
+typeWriter()

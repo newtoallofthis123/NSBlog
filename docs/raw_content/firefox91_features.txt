@@ -1,0 +1,13 @@
+Firefox is in my opinion is one of the best browsers out there. I know firefox has it's problems, but it is the best alternative to chromium, no scratch that, it is the ONLY usable alternative to chromium. Mozilla has also come under heat for being sponsered by google but I trust a open source browser which is customizable and is only sponsered by google than a browser which is literally maintained by google.
+
+One of the many complains about firefox has been the bland user interface, so mozilla has introduced the proton update and even though there have been mixed reactions in the community, but I love it. I mean, look at the interface, it is so neat. I am a firefox fanboy, so you may expect a biased opinion from me but I will try to be impartial.
+
+The New proton update is awesome. There have been major improvements on the front page and also the asethics are awesome. You can also disable it, if you want nostalgia. Learn how to do that here
+
+Built in Third party cookies blocking and built in tracker blocking with new smart block version 2
+
+The address bar now provides Switch to Tab results also in Private Browsing windows.
+
+Firefox Private Browsing window will now attempt to make all connections to websites secure, and falls back to insecure connections only when a website does not support it and warns you
+
+That's it for now, hope I convinced you to like firefox. Thanks
